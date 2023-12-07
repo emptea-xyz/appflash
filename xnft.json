@@ -1,0 +1,22 @@
+{
+  "kind": "app",
+  "storage": "aws",
+  "name": "Emptea Catalog",
+  "version": "1.0.0",
+  "description": "Emptea Catalog manages products.",
+  "website": "https://emptea.xyz",
+  "tag": "none",
+  "contact": "https://twitter.com/empteaxyz",
+  "entrypoints": {
+    "default": {
+      "web": "./dist/index.html"
+    }
+  },
+  "icon": {
+    "md": "./assets/icon.png"
+  },
+  "screenshots": [
+    "./assets/demo-1.png",
+    "./assets/demo-2.png"
+  ]
+}
